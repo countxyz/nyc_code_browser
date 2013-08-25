@@ -1,0 +1,27 @@
+{
+  "text": "",
+  "sections": [
+    {
+      "prefix": "a",
+      "text": "All courts shall take judicial notice of all laws contained in the code, the charter, local laws, ordinances, the health code, resolutions, and of all rules and regulations adopted pursuant to law."
+    },
+    {
+      "prefix": "b",
+      "text": "The compilations of rules and regulations published pursuant to subdivision f of section eleven hundred five of the charter shall be prima facie evidence in all courts of the authenticity of the provisions contained therein."
+    }
+  ],
+  "title": {
+    "identifier": "1",
+    "text": "GENERAL PROVISIONS"
+  },
+  "chapter": {
+    "identifier": "1",
+    "text": "RULES OF CONSTRUCTION"
+  },
+  "heading": {
+    "title": "1",
+    "chaptersection": "104",
+    "identifier": "1-104",
+    "catch_text": "Judicial notice."
+  }
+}

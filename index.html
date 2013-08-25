@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>NYC Code Browser</title>
+
+        <!-- handle older IE -->
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <!--[if lt IE 9]>
+        <script type="text/javascript" src="js/aight.min.js"></script>
+        <![endif]-->
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+        <link rel='stylesheet' type='text/css' href='css/style.css' media='screen' />
+        <link rel='stylesheet' type='text/css' href='css/site.css' media='screen' />
+        <link rel='stylesheet' type='text/css' href='css/print.css' media='print' />
+        <link rel='stylesheet' type='text/css' href='css/icons/style.css' media='screen' />
+        <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+    </head>
+    <body class='browser'>
+        <div class='header'>
+            <div class='col6'>
+                <h1>
+                    New York City Code
+                    <span id='code-identifier'></span>
+                    <a href='./about.html' target='_blank' class='about-button no-print'>about</a>
+                </h1>
+            </div>
+            <div class="col6 search icon-search no-print">
+                <input type='text' id='search-title' />
+            </div>
+        </div>
+
+        <div class='restrict'>
+            <div class='nav col3 titles-container no-print'>
+                <h2>
+                    <span class="symbol symbol-title">T</span>
+                    <span class="title">Title</span>
+                </h2>
+                <ul class='items' id='titles'></ul>
+            </div>
+            <div class='nav col3 sections-container no-print'>
+                <h2>
+                    <span class="symbol symbol-section">S</span>
+                    <span class="title">Section</span>
+                </h2>
+                <ul class='items' id='sections'></ul>
+            </div>
+            <div class='col6 content'>
+                <div id='section'>
+                </div>
+            </div>
+        </div>
+
+        <script src='js/lib/d3.v3.min.js'></script>
+        <script src='js/lib/d3.keybinding.js'></script>
+        <script src='js/lib/d3.trigger.js'></script>
+        <script src='js/lib/d3.combobox.js'></script>
+        <script src='js/lib/director.min.js'></script>
+
+        <!-- citation extraction -->
+        <script src='js/lib/xregexp-min.js'></script>
+        <script src='js/lib/underscore-min.js'></script>
+
+        <script src='js/lib/citation.js'></script>
+
+        <!-- cross-ref of DC laws to bills, courtesy of @adamturoff -->
+        <script src='js/dc_laws.js'></script>
+
+        <!-- at github.com/unitedstates/citation
+        <script src='http://rawgithub.com/unitedstates/citation/master/citation.js'></script>
+        <script src='http://rawgithub.com/unitedstates/citation/master/citations/dc_code.js'></script>
+        <script src='http://rawgithub.com/unitedstates/citation/master/citations/dc_register.js'></script>
+        <script src='http://rawgithub.com/unitedstates/citation/master/citations/dc_law.js'></script>
+        <script src='http://rawgithub.com/unitedstates/citation/master/citations/law.js'></script>
+        <script src='http://rawgithub.com/unitedstates/citation/master/citations/stat.js'></script>
+        -->
+
+        <script src='js/citations.js'></script>
+        <script src='js/search.js'></script>
+        <script src='js/browser.js'></script>
+    </body>
+</html>

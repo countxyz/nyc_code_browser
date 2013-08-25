@@ -1,0 +1,27 @@
+{
+  "text": "",
+  "sections": [
+    {
+      "prefix": "a",
+      "text": "It is not intended by this code to repeal by implication any existing provision of law and no law shall be deemed repealed thereby unless expressly provided for herein."
+    },
+    {
+      "prefix": "b",
+      "text": "No law hereafter enacted shall be construed to repeal any provision of this code by implication, but every such provision shall be deemed to be in full force and effect until specifically repealed or amended."
+    }
+  ],
+  "title": {
+    "identifier": "1",
+    "text": "GENERAL PROVISIONS"
+  },
+  "chapter": {
+    "identifier": "1",
+    "text": "RULES OF CONSTRUCTION"
+  },
+  "heading": {
+    "title": "1",
+    "chaptersection": "110",
+    "identifier": "1-110",
+    "catch_text": "No repeal by implication."
+  }
+}

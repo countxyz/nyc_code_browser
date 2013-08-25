@@ -1,0 +1,11 @@
+{
+  	"name": "nyc_adc_browser",
+	"author": "Dante Hicks",
+	"description": "New York City Administrative Code browser",
+  	"version": "0.0.1",
+  	"dependencies": {
+  },
+  "engines": {
+        "node": "0.10.x"
+    }
+}
