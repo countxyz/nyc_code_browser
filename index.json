@@ -2461,6 +2461,466 @@
       "Investigation fee."
     ],
     [
+      "10-101",
+      "Communication of alarms."
+    ],
+    [
+      "10-102",
+      "Permit for equipping automobiles with radio receiving sets capable of receiving signals on frequencies allocated for police use; fee."
+    ],
+    [
+      "10-103",
+      "Use of devices to decode coded police transmission via radio or television prohibited."
+    ],
+    [
+      "10-104",
+      "Suppression of gaming and other houses."
+    ],
+    [
+      "10-105",
+      "Duties re-elections."
+    ],
+    [
+      "10-106",
+      "Reporting and depositing lost money or property."
+    ],
+    [
+      "10-107",
+      "Yellow flashing lights on volunteer emergency vehicles."
+    ],
+    [
+      "10-108",
+      "Regulation of sound devices or apparatus."
+    ],
+    [
+      "10-110",
+      "Processions and parades."
+    ],
+    [
+      "10-111",
+      "Unattended vehicles."
+    ],
+    [
+      "10-112",
+      "Parking of trailers in vacant lots."
+    ],
+    [
+      "10-113",
+      "Parking of motor vehicles in vacant lots."
+    ],
+    [
+      "10-114",
+      "Street shows."
+    ],
+    [
+      "10-115",
+      "Solicitation of pedestrians by pullers-in."
+    ],
+    [
+      "10-116",
+      "Damaging houses of religious worship or religious articles therein prohibited."
+    ],
+    [
+      "10-117",
+      "Defacement of property, possession, sale and display of aerosol spray paint cans, broad tipped markers and etching acid prohibited in certain instance"
+    ],
+    [
+      "10-117.1",
+      "Anti-graffiti task force."
+    ],
+    [
+      "10-117.2",
+      "Rewards for providing information leading to apprehension, prosecution or conviction of a person for crimes involving graffiti vandalism."
+    ],
+    [
+      "10-117.3",
+      "Remedies for failure to remove graffiti from certain premises."
+    ],
+    [
+      "10-118",
+      "Destruction or removal of property in buildings or structures."
+    ],
+    [
+      "10-119",
+      "Posting."
+    ],
+    [
+      "10-120",
+      "Protection of city advertisements."
+    ],
+    [
+      "10-121",
+      "Violation."
+    ],
+    [
+      "10-121.1",
+      "Rewards for providing information leading to criminal conviction of a person for unlawful posting."
+    ],
+    [
+      "10-122",
+      "Motor boats; operation adjacent to bathing beaches."
+    ],
+    [
+      "10-123",
+      "Bathing in public."
+    ],
+    [
+      "10-125",
+      "Consumption of alcohol on streets prohibited."
+    ],
+    [
+      "10-126",
+      "Avigation in and over the city."
+    ],
+    [
+      "10-127",
+      "Commercial vehicles to display name and address of owner."
+    ],
+    [
+      "10-128",
+      "Declaration of intent; dress of female employees in places of public accommodation."
+    ],
+    [
+      "10-129",
+      "Prohibited acts."
+    ],
+    [
+      "10-130",
+      "Punishment."
+    ],
+    [
+      "10-131",
+      "Firearms."
+    ],
+    [
+      "10-132",
+      "Sale of broad head, bladed or hunting arrows."
+    ],
+    [
+      "10-133",
+      "Possession of knives or instruments."
+    ],
+    [
+      "10-134",
+      "Prohibition on sale of certain knives."
+    ],
+    [
+      "10-134.1",
+      "Prohibition on sale of box cutters to persons under twenty-one years of age, open displays of box cutters by sellers, and possession of boxcutters in"
+    ],
+    [
+      "10-134.2",
+      "Regulation of laser pointers."
+    ],
+    [
+      "10-135",
+      "Prohibition on sale and possession of electronic stun guns."
+    ],
+    [
+      "10-136",
+      "Prohibition against certain forms of aggressive solitiation."
+    ],
+    [
+      "10-137",
+      "Prevention of harassment on school premises."
+    ],
+    [
+      "10-137*2",
+      "Prohibition on the sale or installation of audible burglar alarms for motor vehicles."
+    ],
+    [
+      "10-138",
+      "Distribution of a model code of conduct to participants in youth sports programs."
+    ],
+    [
+      "10-146",
+      "Sale of motor vehicles to unlicensed minors."
+    ],
+    [
+      "10-147",
+      "Possession of handcuffs, thumb-cuffs or leg irons by unauthorized persons prohibited."
+    ],
+    [
+      "10-148",
+      "Fines for unlawful cutting of trees on city property other than trees under the jurisdiction of the department of parks and recreation."
+    ],
+    [
+      "10-149",
+      "Violation."
+    ],
+    [
+      "10-150",
+      "Declaration and findings; election for non-public office."
+    ],
+    [
+      "10-151",
+      "Elections for non-public office or position."
+    ],
+    [
+      "10-152",
+      "Penalty."
+    ],
+    [
+      "10-153",
+      "First aid kits on vehicles for hire."
+    ],
+    [
+      "10-154",
+      "False statements in certificates, forms, written statements, applications or reports."
+    ],
+    [
+      "10-155",
+      "Public nuisance defined."
+    ],
+    [
+      "10-156",
+      "Powers of the police commissioner with respect to public nuisances."
+    ],
+    [
+      "10-157",
+      "Bicycles used for commercial purposes."
+    ],
+    [
+      "10-157.1",
+      "Signs with bicycle safety procedures."
+    ],
+    [
+      "10-158",
+      "Vessel regulation zone."
+    ],
+    [
+      "10-158.1",
+      "Harlem River no wake area."
+    ],
+    [
+      "10-158.2",
+      "Wake reduction educational material."
+    ],
+    [
+      "10-159",
+      "Safe streets, safe city advisory board."
+    ],
+    [
+      "10-160",
+      "Security measures at automated teller machine facilities."
+    ],
+    [
+      "10-161",
+      "Three-card monte prohibited."
+    ],
+    [
+      "10-162",
+      "Interference with professinal sporting event."
+    ],
+    [
+      "10-163",
+      "Speed contests and races."
+    ],
+    [
+      "10-164",
+      "Operation of vehicles on approach of authorized emergency vehicles."
+    ],
+    [
+      "10-165",
+      "Serial acts of public lewdness."
+    ],
+    [
+      "10-166",
+      "Use of cellular telephones by schoolchildren."
+    ],
+    [
+      "10-167",
+      "Climbing, jumping or suspending of oneself from structures prohibited."
+    ],
+    [
+      "10-168",
+      "Prohibition of use of non-wood bats."
+    ],
+    [
+      "10-169",
+      "Regulation of publicly accessible collection bins."
+    ],
+    [
+      "10-170",
+      "Criminal street gang initiation activity."
+    ],
+    [
+      "10-171",
+      "Prohibited acts during a local state of emergency."
+    ],
+    [
+      "10-201",
+      "Unlawful possession of controlled substances."
+    ],
+    [
+      "10-202",
+      "Civil Action."
+    ],
+    [
+      "10-301",
+      "Control and regulation of the disposition, purchase and possession of firearms, rifles, shotguns and assault weapons."
+    ],
+    [
+      "10-302",
+      "Licensing of gunsmiths, of wholesale manufacturers of firearms, of assemblers of firearms, dealers in firearms, dealers in rifles and shotguns, and sp"
+    ],
+    [
+      "10-302.1",
+      "Preventing the diversion of firearms, rifles and shotguns to criminals."
+    ],
+    [
+      "10-303",
+      "Permits for possession and purchase of rifles and shotguns."
+    ],
+    [
+      "10-303.1",
+      "Prohibition of the possession or disposition of assault weapons."
+    ],
+    [
+      "10-303.2",
+      "Civil penalty; firearms dealers and manufacturers."
+    ],
+    [
+      "10-304",
+      "Certificates of registration."
+    ],
+    [
+      "10-305",
+      "Exemptions."
+    ],
+    [
+      "10-306",
+      "Disposition, purchase and possession of ammunition and ammunition feeding devices."
+    ],
+    [
+      "10-307",
+      "Supply of forms."
+    ],
+    [
+      "10-308",
+      "Vehicles, rooms, dwellings or structures; possession therein."
+    ],
+    [
+      "10-309",
+      "Identifying marks."
+    ],
+    [
+      "10-310",
+      "Violation."
+    ],
+    [
+      "10-311",
+      "Sale of weapons without safety locking device prohibited."
+    ],
+    [
+      "10-312",
+      "Use of safety locking device required under certain circumstances."
+    ],
+    [
+      "10-401",
+      "Short Title."
+    ],
+    [
+      "10-402",
+      "Definition."
+    ],
+    [
+      "10-403",
+      "Civil Cause of Action."
+    ],
+    [
+      "10-404",
+      "Limitations."
+    ],
+    [
+      "10-405",
+      "Burden of Proof."
+    ],
+    [
+      "10-406",
+      "Severability."
+    ],
+    [
+      "10-501",
+      "Definitions."
+    ],
+    [
+      "10-502",
+      "Agency disclosure of a security breach"
+    ],
+    [
+      "10-503",
+      "Agency disposal of personal identifying information."
+    ],
+    [
+      "10-601",
+      "Short Title."
+    ],
+    [
+      "10-602",
+      "Definitions."
+    ],
+    [
+      "10-603",
+      "Duty to register and to verify."
+    ],
+    [
+      "10-604",
+      "Duration of registration and verification."
+    ],
+    [
+      "10-605",
+      "Sharing of registration information."
+    ],
+    [
+      "10-606",
+      "Cooperation with other agencies."
+    ],
+    [
+      "10-607",
+      "Regulations."
+    ],
+    [
+      "10-608",
+      "Penalties."
+    ],
+    [
+      "10-701",
+      "Definitions."
+    ],
+    [
+      "10-702",
+      "Unauthorized operation of a recording device in a place of public performance prohibited."
+    ],
+    [
+      "10-703",
+      "Penalties."
+    ],
+    [
+      "10-704",
+      "Exception."
+    ],
+    [
+      "10-705",
+      "Signage."
+    ],
+    [
+      "10-706",
+      "Rule-making authority."
+    ],
+    [
+      "10-801",
+      "Definitions."
+    ],
+    [
+      "10-802",
+      "Silver alert system."
+    ],
+    [
+      "10-803",
+      "Procedures."
+    ],
+    [
       "23-408",
       "Violations; Penalties and Other Enforcement."
     ]
