@@ -1,7 +1,18 @@
 {
-  "text": "a. The following design is hereby adopted as the design of the official flag of the borough of the Bronx. 1. The colors orange, white, and blue as appears on the official city flag, arranged in horizontal bars of equal dimension, the orange being above the white and the blue below, with the following design in the center, encircled within a laurel wreath greater in diameter than the width of the white stripe: Crest: Upon a hemisphere, an American eagle with wings displayed. Shield: The sun with shining rays, rising from the sea. Legend: Upon a ribbon beneath the words \"Ne Cede Malis\". b. This flag may be displayed at reviews, parades, receptions and other civic functions. ",
+  "text": "",
   "sections": [
-
+    {
+      "prefix": "a",
+      "text": "The following design is hereby adopted as the design of the official flag of the borough of the Bronx."
+    },
+    {
+      "prefix": "1",
+      "text": "The colors orange, white, and blue as appears on the official city flag, arranged in horizontal bars of equal dimension, the orange being above the white and the blue below, with the following design in the center, encircled within a laurel wreath greater in diameter than the width of the white stripe: Crest: Upon a hemisphere, an American eagle with wings displayed. Shield: The sun with shining rays, rising from the sea. Legend: Upon a ribbon beneath the words \"Ne Cede Malis\"."
+    },
+    {
+      "prefix": "b",
+      "text": "This flag may be displayed at reviews, parades, receptions and other civic functions."
+    }
   ],
   "title": {
     "identifier": "2",
