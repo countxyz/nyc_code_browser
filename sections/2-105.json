@@ -1,7 +1,14 @@
 {
-  "text": "a. The following description is hereby adopted as the description of the official flag of the borough of Brooklyn. A white background in the center of which is the design of the seal. Within the seal appears a figure of the goddess of justice in gold holding Roman fasces in her left hand set on a background of light blue. Encircling her figure on a background of dark blue appear the words \"Een Draght Mackt Maght\" the old Dutch motto for \"In unity there is strength\" and below the words \"borough of Brooklyn.\" The outside and inside trim of the seal is gold. b. This flag may be displayed at reviews, parades, receptions and other civic functions. ",
+  "text": "",
   "sections": [
-
+    {
+      "prefix": "a",
+      "text": "The following description is hereby adopted as the description of the official flag of the borough of Brooklyn. A white background in the center of which is the design of the seal. Within the seal appears a figure of the goddess of justice in gold holding Roman fasces in her left hand set on a background of light blue. Encircling her figure on a background of dark blue appear the words \"Een Draght Mackt Maght\" the old Dutch motto for \"In unity there is strength\" and below the words \"borough of Brooklyn.\" The outside and inside trim of the seal is gold."
+    },
+    {
+      "prefix": "b",
+      "text": "This flag may be displayed at reviews, parades, receptions and other civic functions."
+    }
   ],
   "title": {
     "identifier": "2",
