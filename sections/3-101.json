@@ -1,5 +1,8 @@
 {
-  "text": "§ 3-101 Flag of the mayor. The official flag of the mayor shall be the  same  in  design  as  the  official flag of the city. Upon the middle or  white bar, however, and above the design of the seal in  a  semi-circle,  there shall be five blue five-pointed stars, typifying the five boroughs  of the city. The dimensions of such flag shall be thirty-three inches by forty-four inches.",
+  "text": "§ 3-101 Flag of the mayor. The official flag of the mayor shall be the same in design as the official flag of the city. Upon the middle or white bar, however, and above the design of the seal in a semi-circle, there shall be five blue five-pointed stars, typifying the five boroughs of the city. The dimensions of such flag shall be thirty-three inches by forty-four inches. ",
+  "sections": [
+
+  ],
   "title": {
     "identifier": "3",
     "text": "ELECTED OFFICIALS "
@@ -12,6 +15,6 @@
     "title": "3",
     "chaptersection": "101",
     "identifier": "3-101",
-    "catch_text": "Flag of the mayor."
+    "catch_text": " Flag of the mayor."
   }
 }
