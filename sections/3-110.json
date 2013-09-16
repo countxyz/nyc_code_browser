@@ -1,7 +1,10 @@
 {
-  "text": "§ 3-110 Parking spaces. a. Notwithstanding any other provision of law, the mayor, within the appropriation provided therefor, shall have the power to establish parking spaces, pursuant to section seventy-two-j of the general municipal law and assign whatever functions are necessary in connection with the construction, operation and maintenance of such parking spaces to appropriate city departments or agencies. b. Any city department or agency to which functions are assigned by the mayor in connection with the operation and maintenance of such parking space may adopt rules and regulations necessary for the carrying out of such functions. Violation of such rules and regulations shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days imprisonment, a fine of not more than fifty dollars, or both. ",
+  "text": "§ 3-110 Parking spaces. a. Notwithstanding any other provision of law, the mayor, within the appropriation provided therefor, shall have the power to establish parking spaces, pursuant to section seventy-two-j of the general municipal law and assign whatever functions are necessary in connection with the construction, operation and maintenance of such parking spaces to appropriate city departments or agencies.",
   "sections": [
-
+      {
+        "prefix": "b",
+        "text": "Any city department or agency to which functions are assigned by the mayor in connection with the operation and maintenance of such parking space may adopt rules and regulations necessary for the carrying out of such functions. Violation of such rules and regulations shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days imprisonment, a fine of not more than fifty dollars, or both."
+      }
   ],
   "title": {
     "identifier": "3",
