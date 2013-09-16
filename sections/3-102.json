@@ -1,7 +1,10 @@
 {
-  "text": "§ 3-102 Flags and decorations; city hall park. All authority to display flags or other decorations on, in or about the public buildings within the city hall park, is vested in the mayor, unless otherwise ordered by the council. a. A Prisoner of War/Missing in Action POW/(MIA) flag shall be flown over City Hall every day the American flag is flown until such time as all persons listed as missing in action, from any branch of the United States Armed Forces, and all persons from any branch of our armed forces who are prisoners of war, are accounted for by the United States Government. ",
+  "text": "§ 3-102 Flags and decorations; city hall park. All authority to display flags or other decorations on, in or about the public buildings within the city hall park, is vested in the mayor, unless otherwise ordered by the council.",
   "sections": [
-
+      {
+        "prefix": "a",
+        "text": "A Prisoner of War/Missing in Action POW/(MIA) flag shall be flown over City Hall every day the American flag is flown until such time as all persons listed as missing in action, from any branch of the United States Armed Forces, and all persons from any branch of our armed forces who are prisoners of war, are accounted for by the United States Government."
+      }
   ],
   "title": {
     "identifier": "3",
