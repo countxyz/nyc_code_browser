@@ -1,0 +1,20 @@
+{
+  "text": "§ 11-2322 Definitions. When used in this chapter the following terms shall mean: (a) \"E911 system\" means an enhanced emergency telephone service which automatically connects a person dialing the digits 9-1-1 to the answering point established within the New York city police department, and which shall include, but not be limited to, selective routing, automatic number identification and automatic location identification. (b) \"Lifeline\" means a discounted or low-priced telephone service available to eligible low-income residential customers. (c) \"Access line\" means a communications circuit that connects a customer location to a facility housing the switching system and related equipment that provides telephone service. (d) \"911 service area\" means the area within the geographic boundaries of the city of New York. (e) \"Municipality\" means any New York city agency, or any public benefit corporation, local development corporation or other governmental entity the majority of whose members or governing body is appointed by a city official. (f) \"Public safety agency\" means a public safety agency as defined in subdivision five of section three hundred one of the county law. (g) \"Service supplier\" means a service supplier as defined in subdivision seven of section three hundred one of the county law that provides service within the 911 service area. (h) \"System costs\" means the costs associated with obtaining and maintaining the telecommunication equipment, all operations and maintenance costs and the telephone services costs necessary to establish and provide an E9ll system. (i) \"Voice over internet protocol service\" or \"VOIP service\" shall mean any service that (i) enables real-time, two-way voice communications; (ii) requires a broadband connection from the user's location; (iii) requires internet protocol compatible customer premises equipment (CPE); and (iv) permits users generally to receive calls that originate on the public switched telephone network and to terminate calls to the public switched telephone network. ",
+  "sections": [
+
+  ],
+  "title": {
+    "identifier": "11",
+    "text": "TAXATION AND FINANCE"
+  },
+  "chapter": {
+    "identifier": "23",
+    "text": "ENHANCED 911 TELEPHONE SURCHARGE"
+  },
+  "heading": {
+    "title": "11",
+    "chaptersection": "2322",
+    "identifier": "11-2322",
+    "catch_text": "Definitions."
+  }
+}
