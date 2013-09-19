@@ -1,8 +1,36 @@
 {
-  "text": "§ 3-112. On-line reporting of domestic violence and hate crime statistics. The mayor's office of operations shall include the following police department statistics among the data presented on the My Neighborhood Statistics pages of the city's website or on any successor pages of such website that are substantially similar in form or function: (a) the number of domestic violence radio runs; (b) the number of murders related to domestic violence; (c) the number of rapes related to domestic violence; (d) the number of felonious assaults related to domestic violence; (e) the number of hate crimes; (f) the number of murders determined by the police department to be hate crimes; and (g) the number of felonious assaults determined by the police department to be hate crimes. For purposes of subdivisions (e) through (g) of this section, the term \"hate crime\" shall have the meaning ascribed to it by section 485.05 of the New York penal law. Such statistics shall be provided in a manner consistent with other police department data available on the pages of such website. ",
+  "text": "§ 3-112. On-line reporting of domestic violence and hate crime statistics. The mayor's office of operations shall include the following police department statistics among the data presented on the My Neighborhood Statistics pages of the city's website or on any successor pages of such website that are substantially similar in form or function:",
   "sections": [
-
+      {
+      "prefix": "a",
+      "text": "the number of domestic violence radio runs;"
+      },
+      {
+      "prefix": "b",
+      "text": "the number of murders related to domestic violence;"
+      },
+      {
+      "prefix": "c",
+      "text": "the number of rapes related to domestic violence;"
+      },
+      {
+      "prefix": "d",
+      "text": "the number of felonious assaults related to domestic violence;"
+      },
+      {
+      "prefix": "e",
+      "text": "the number of hate crimes;"
+      },
+      {
+      "prefix": "f",
+      "text": "the number of murders determined by the police department to be hate crimes; and"
+      },
+      {
+      "prefix": "g",
+      "text": "the number of felonious assaults determined by the police department to be hate crimes."
+      }
   ],
+      "text": "For purposes of subdivisions (e) through (g) of this section, the term \"hate crime\" shall have the meaning ascribed to it by section 485.05 of the New York penal law. Such statistics shall be provided in a manner consistent with other police department data available on the pages of such website.",
   "title": {
     "identifier": "3",
     "text": "ELECTED OFFICIALS "
